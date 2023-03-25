@@ -1,7 +1,7 @@
 #include  <stdio.h>
 
 /**
- * main - a program that prints various computer types
+ * main - main function
  *
  * Return 0 (Success)
  */
